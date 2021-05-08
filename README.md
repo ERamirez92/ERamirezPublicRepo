@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EdgarRamirez
+- 👀 I’m interested in front end web develpment, currently I'am working in project managment in dev projects, I'am SMPC SPOPC
+- 🌱 I’m currently learning javascript, react and sass...
